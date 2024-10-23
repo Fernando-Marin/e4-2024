@@ -1,0 +1,56 @@
+#header {
+  background: #301685 !important;
+}
+
+body {
+  background-color: #a492df;
+}
+
+#main .carousel-item img {
+  max-height: 70vh;
+  object-fit: cover;
+  opacity: 0.65;
+}
+
+#carousel .overay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+#ponentes p {
+  color: black;
+}
+
+#lugarfecha img {
+  max-width: 100%;
+}
+
+#lugarfecha {
+  background-color: azure;
+}
+
+#calendario {
+  background-color: lightskyblue;
+}
+
+#calendario table {
+  border-color: black;
+}
+
+#footer {
+  background-color: #4729a6;
+}
+
+footer a,
+p {
+  color: aliceblue;
+}
+
+#modalito {
+  background-color: azure;
+}
